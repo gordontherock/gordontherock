@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering, hardware emulation, web technologies and game development
 - 
 
-- worked with java , c/c++ , javascript, php, dart , MySQL
+- worked with java , c/c++ , javascript, php, dart , MySQL , C#
 - blender in my free time
 <!---
 gordontherock/gordontherock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
